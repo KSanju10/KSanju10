@@ -14,7 +14,6 @@
 
 ---
 
-### 📫 Connect with me:
 <p align="center">
   <a href="ksanjusk10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="www.linkedin.com/in/sanjay-kumarsk10"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -23,8 +22,8 @@
 
 ---
 
-### 🛠️ Languages-Frameworks-Tools
 
 <p align="center">
+  <h4>🛠️ Languages-Frameworks-Tools</h4>
   <img src="https://skillicons.dev/icons?i=html,css,python,java,c,vscode,github,sql" />
 </p>
