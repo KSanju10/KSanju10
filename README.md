@@ -1,8 +1,4 @@
 <h2 align="center">Hi There! 👋</h2>
-
-<details open>
-  <summary>Click to reveal more</summary>
-
   <h2 align="center">I'm Sanjay Kumar!</h2>
 <p align="center">
   A passionate student / developer / agency owner / freelancing from India 🇮🇳
