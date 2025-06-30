@@ -16,7 +16,7 @@
 
 💬 Ask me about HTML,CSS or anything [here](https://github.com/KSanju10/KSanju10/issues)**
 
-⚡ Fun fact ** 🧠Overfitting in ML is like overtraining at the gym — more isn’t always better **
+⚡ Fun fact ** 🧠Overfitting in ML is like overtraining at the gym — more is always better **
 
  </div>
 
