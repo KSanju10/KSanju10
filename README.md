@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&repeat=0&color=808080&lines=Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!;Hi+There!+👋;+I'm+Sanjay+Kumar..!" />
 </h1>
 
-<h3 align="center">A passionate student / developer / freelancing from India 🇮🇳 </h3>
+
 
 <br/>
 
