@@ -55,5 +55,19 @@
   <img src="https://skillicons.dev/icons?i=python,c,java,mysql"/>
 </p>
 
+<!-- First row: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn -->
+<p>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+<!-- Second row: Python, C, Java, SQL -->
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,mysql"/>
+</p>
+
 <br/>
 <hr/>
